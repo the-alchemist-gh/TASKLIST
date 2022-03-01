@@ -177,7 +177,6 @@ function clearList(){
 
 function clearFromLocalStorage(){
   localStorage.clear();
-  
 }
 
 // filter Tasks
